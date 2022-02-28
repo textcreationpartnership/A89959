@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Nevv declaration of the last affairs in Ireland, shewing the great overthrow given to the Irish rebels. Also in what estate that kingdome now stands. Read in the House of Commons, and ordered forthwith to be printed. Die Lunæ 2, of May, 1642. It is ordered by the House of Commons that this be forth-with printed. H. Elsinge. Cler. Parl. D. Com.</title>
+            <title>New declaration of the last affairs in Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89959</idno>
+            <idno type="STC">Wing N613</idno>
+            <idno type="STC">Thomason E146_9</idno>
+            <idno type="STC">ESTC R19710</idno>
+            <idno type="EEBO-CITATION">99860725</idno>
+            <idno type="PROQUEST">99860725</idno>
+            <idno type="VID">112850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112850)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E146[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Nevv declaration of the last affairs in Ireland, shewing the great overthrow given to the Irish rebels. Also in what estate that kingdome now stands. Read in the House of Commons, and ordered forthwith to be printed. Die Lunæ 2, of May, 1642. It is ordered by the House of Commons that this be forth-with printed. H. Elsinge. Cler. Parl. D. Com.</title>
+                  <title>New declaration of the last affairs in Ireland.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for John Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112850:1"/>
+            <p>
+               <pb facs="tcp:112850:1"/>
+A NEVV DECLARATION Of the laſt affairs in <hi>Jreland,</hi> ſhew<g ref="char:EOLhyphen"/>ing the great overthrow given to the <hi>Iriſh</hi> Rebels.</p>
+            <p>
+               <hi>Alſo in what eſtate that Kingdome now ſtands.</hi>
+            </p>
+            <p>Read in the Houſe of Commons, and orde<g ref="char:EOLhyphen"/>red forthwith to be printed.</p>
+            <p>
+               <hi>Die Lunae 2, of</hi> May, 1642.</p>
+            <p>It is ordered by the Houſe of Commons that this be forth-with printed.</p>
+            <p>
+               <hi>H. Elſyinge. Cler. Parl. D. Com.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>A. N.</hi> for <hi>John Franck,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112850:2"/>
+            <pb n="1" facs="tcp:112850:2"/>
+            <head>The Declaration of a great overthrow given to the <hi>Iriſh</hi> Rebels.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Aturday, the ſecond of <hi>Aprill,</hi> the Earle of <hi>Ormond</hi> Lievtenant Generall with three thouſand foot, and five hundred horſe, with five field-Pieces, marched from <hi>Du<g ref="char:EOLhyphen"/>blin,</hi> and quartered that night at <hi>Racoole.</hi>
+            </p>
+            <p>Sunday morning the third, after Prayers, the Army marched towards the <hi>Naaſe,</hi> burning ſeveral Villages of the Rebels in their march. Within a mile of the Quarter Captaine <hi>Armeſtrong</hi> (Quarter-Maſter Generall of the horſe,) broughtword, that in a Caſtle (called <hi>Tipper,</hi> be<g ref="char:EOLhyphen"/>longing to one <hi>Sutton,</hi> a Collonel (as they call them) amongſt the Rebels; where the ſaid <hi>Armſtrong</hi> intended to quarter a horſe troop, there were ſome Rebels: Wher<g ref="char:EOLhyphen"/>upon the Lievtenant Generall, ſent thither Sir <hi>George Wentworth's</hi> horſe-troope then commanded by Captaine <hi>Thomas Harman,</hi> with direction to ſurround the Caſtle, and one of the Trumpetters approaching neerer to the Caſtle then he had direction, was ſlain by a ſhot from the Caſtle. The Lievtenant Generall upon notice thereof, ſent a party of foot under the command of Sir <hi>Charles Coot,</hi> who blew up the Caſtle, and therein a Popiſh Prieſt, uncle to the ſaid <hi>Sutton,</hi> and ſome others, ſo retur<g ref="char:EOLhyphen"/>ned back to the Quarter.</p>
+            <p>Monday the fourth, the Army marched to <hi>Kilcullin,</hi> burning in their march, the Villages in the way which belonged to the Rebels, and quartered at <hi>Kilcullin</hi> that night.</p>
+            <p>
+               <pb n="2" facs="tcp:112850:3"/>
+Tueſday the fifth, the Army marched from thence to <hi>Athy</hi> and in their way burnt the Caſtle, and Towne of <hi>Kilruſh,</hi> belonging to one <hi>Fitz Gerald,</hi> (a Collonell alſo amongſt the Rebels) and relieved ſome Engliſhmen which had been long priſoners with the Rebels, one of them being an aged man, and a Miniſter.</p>
+            <p>The Army came that night to <hi>Athy,</hi> before they got thither the Townſmen (not knowing they were ſo neer them) and fearing the approach of the Rebels (who had the day before aſſaulted the Town) burnt the moſt part of the houſes of the Town, leſt comming into the hands of the Rebels, they ſhould thereby be the better ena<g ref="char:EOLhyphen"/>bled to annoy the Caſtle.</p>
+            <p>Wedneſday the ſixth, the Army reſted at <hi>Athy,</hi> and the Lievtenant Generall ſent four troops of horſe to re<g ref="char:EOLhyphen"/>lieve the Caſtles of <hi>Caterlagh,</hi> and <hi>Cloughgrenan, viz.</hi> his Lordſhips troop commanded by Sir <hi>Patrick Wymes,</hi> Sir <hi>George Wentworth's</hi> troops commanded by Captain <hi>Har<g ref="char:EOLhyphen"/>man,</hi> Captaine <hi>Tho. Armſtrong's</hi> troop commanded by himſelf, and part of Sir <hi>Charles Coot.</hi> When they came within ſight of the Town, the Rebels obſerving their ap<g ref="char:EOLhyphen"/>proach ſet the Town on fire and fled. Whereupon Cap. <hi>Harman</hi> (beſt knowing that Countrey, and which way they would take) did with his horſ-troop purſue them, and killed 50 of them, the reſt eſcaping into a Bog, brought in good ſtore of cattle, and relieved the Caſtle, where there were 500 perſons, who were exceedingly diſtreſſed having beene a long time beſieged by the Re<g ref="char:EOLhyphen"/>bels, the troops returned that night to their quarter, ha<g ref="char:EOLhyphen"/>ving relieved both the Caſtles.</p>
+            <p>The ſame day Sir <hi>Charles Coot</hi> was ſent forth with a party of horſe and foot, and relieved Cap. <hi>George Gre<g ref="char:EOLhyphen"/>ham's</hi> Caſtle (called <hi>Ballylenon)</hi> wherein there were 300 perſons. Caſtle <hi>Rebon</hi> was relieved the ſame day, by the
+<pb n="3" facs="tcp:112850:3"/>
+Lord Lievtenant's and Sir <hi>Thomas Luca's</hi> troops, and a Caſtle neere it called <hi>Bert,</hi> taken in, and eight Rebels found in it who were immediatly hang'd.</p>
+            <p>Thurſday the ſeventh, the Lievtenant Generall mar<g ref="char:EOLhyphen"/>ched from <hi>Athy</hi> to <hi>Stradbally,</hi> and left at <hi>Athy</hi> Collonell <hi>Crauford</hi> and his Regiment, and Sir <hi>George Wentworth's</hi> Horſ-troop for the Guard of the Town being a paſſage over the River of <hi>Barrow.</hi>
+            </p>
+            <p>Friday the eighth, the Army marched from <hi>Stradbal<g ref="char:EOLhyphen"/>ly</hi> towards his Majeſties Fort of <hi>Maryburrough;</hi> That day Sir <hi>Thomas Lucas</hi> (Commiſſary Generall of the horſe) accompanied with Sir <hi>Charles Coot,</hi> together with foure troops of horſe commanded by the Lord Lievte<g ref="char:EOLhyphen"/>nant Lord <hi>Liſle,</hi> Sir <hi>Tho. Lucas,</hi> and Sir <hi>Charles Coot</hi> were ſent to relieve <hi>Ballynekill</hi> Caſtle, with ammunition. In their march thither there ſallied out of one of the <hi>Demp<g ref="char:EOLhyphen"/>ſie's</hi> Caſtles (called <hi>Knockardnegurragh</hi> 300 of the Re<g ref="char:EOLhyphen"/>bels Captain <hi>Treſwel</hi> commanding the Lord <hi>Liſles</hi> troop charged them and kill'd 60 of them, and put the reſt to flight. In that ſervice there was a Gentleman of the Scottiſh Nation (called Maſter <hi>Calvil)</hi> ſhot in the arme. Some Armes were then taken from the Rebels, which were left with the Earle of <hi>Londonderry's</hi> Uncle, at <hi>Bally<g ref="char:EOLhyphen"/>nekil;</hi> that night thoſe troops returned back to the Fort of <hi>Maryborrough.</hi>
+            </p>
+            <p>Saturday the ninth, the whole Army reſted at the Fort of <hi>Maryborrough.</hi>
+            </p>
+            <p>Eaſterday the tenth, Sir <hi>Thomas Lucas</hi> Commiſſary Generall of the horſe, accompanied with Sir <hi>Charles Coot</hi> together with ſix Horſe troops, <hi>viz.</hi> The Lord Lievtenants, Sir <hi>Thomas Lucas,</hi> Sir <hi>Charles Coot,</hi> Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Greenvile,</hi> Captain <hi>Armſtrong,</hi> and Captain <hi>Schout's</hi> were ſent with ammunition to relieve the Caſtles of <hi>Burros, Knoknemeaſe,</hi> and <hi>Burr.</hi>
+               <pb n="4" facs="tcp:112850:4"/>
+In which days march, paſsing the river of the <hi>Noare,</hi> the Rebels ſhot at our Troops, but ſome of the horſe beat them out of the woods, and killed ſome of them. Neere the Caſtle of <hi>Florence Fitz Patrick,</hi> there was a ſtone cau<g ref="char:EOLhyphen"/>ſway through a Bog, where but two horſes could march in front, where the Rebels had caſt up a ditch on each ſide of the Cauſway, and cut off ſome two yards in the length, at the entrance on the cauſway, ſo to hinder our mens paſſage; which when our men obſerved, although the Rebels ſtood in their view, ready to play upon them with their ſhot, yet our men remayning reſolute in the ſervice they went about, deſerted not that place, but a<g ref="char:EOLhyphen"/>lighted from horsback; and Sir <hi>Charles Coot</hi> in his owne perſon with thirty of the <hi>Dragoons,</hi> (then become Muſ<g ref="char:EOLhyphen"/>quetiers) did on foot charge the Rebels, ſo to force their paſſage, and did force it, being ſeconded therein by 30 of Sir <hi>Tho. Lucas</hi> horſe, the reſt of the horſe comming on ſoftly after. In that conflict, and execution done by the Horſe, hee that there commanded the Rebels in chiefe was ſlain, with forty of the Rebels. Captain <hi>Armſtrong</hi> was ſlightly ſhot. The paſſage being ſo gain'd, the troops marched to <hi>Burros,</hi> the Duke of <hi>Buckingham's</hi> Caſtle, and there relieved al the <hi>Engliſh</hi> being in number about 300, who had beene for a long time beſieg'd by the Rebels, and were almoſt ſtarved. From thence the troops mar<g ref="char:EOLhyphen"/>ched forwards to the <hi>Bur,</hi> and in their way relieved the Caſtle of <hi>Knocknemeaſe,</hi> and got to <hi>Bur</hi> about three of the clock in the morning, and relieved the Caſtle, and foure o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 500 <hi>Engliſh</hi> therein, who had endured a long ſiege by the Rebels.</p>
+            <p>Monday the eleventh, the troops in their return back marched through <hi>O Dunn's</hi> Country, and burnt all the Country untill they came to Caſtle <hi>Cuff,</hi> from thence
+<pb n="5" facs="tcp:112850:4"/>
+marching to <hi>Portnchinch</hi> through Woods, and Bogs, the Rebels fell upon them, and Captaine <hi>Yarner</hi> was ſhot in the fore-head (of which ſhot he is well recovered) ſome of the troopers were hurt, and divers of their horſes kil<g ref="char:EOLhyphen"/>led, and the paſſage of <hi>Portnchinch,</hi> was poſſeſſed by the Rebels, ſo that the troops were forc'd to ſwim the Ri<g ref="char:EOLhyphen"/>ver of the <hi>Barrow.</hi> The Lievtenant Generall knowing that the troops were to return that way, and conſidering that it is a dangerous paſſage (he being himſelfe indiſpo<g ref="char:EOLhyphen"/>ſed by reaſon of ſickneſſe all Saturday and Sunday) ſent thither 500 foot commanded by Collonell <hi>Monck,</hi> and the Lord <hi>Liſle's</hi> horſ-troop commanded by Capt. <hi>Treſ<g ref="char:EOLhyphen"/>well,</hi> who burnt all the Countrey, and kept the Rebels ſo buſie in fight, who had intrencht themſelves upon that paſſage, as gave our troops opportunity to paſſe ſafe over another paſſage, but were ſo ill guided in the night through the Bogs, that they were conſtrained to ſtay all that night in the Bogs untill morning, and in this hard journey there were loſt and made unſerviceable above 100 horſe, the horſmen having ſate 48 houres on horſ<g ref="char:EOLhyphen"/>back, before they came back to the fort at <hi>Maryburrough.</hi> Alſo the Lievtenant Generall, upon Eaſter-day, ſent his owne horſ-troope commanded by Sir <hi>Patrick Wymes</hi> to <hi>Ballinekill,</hi> to relieve the <hi>Engliſh</hi> that were there, who were in great diſtreſſe for want of victuals, where the troop quartered that night.</p>
+            <p>Monday morning the eleventh, Sir <hi>Patrick</hi> gave dire<g ref="char:EOLhyphen"/>ctions, that all the carts and horſes that could be found there, ſhould be made ready to bring in corn for the re<g ref="char:EOLhyphen"/>lief of the Caſtle, and with his troop brought in unto them 80 barrels of wheat and beere belonging to one <hi>Dempſie</hi> a notorious Rebell, which they tooke within Musket ſhot of his Caſtle.</p>
+            <p>
+               <pb n="6" facs="tcp:112850:5"/>
+About five a clock in the afternoon there were 1000 of the Rebels, and two troops of horſe that ſhewed themſelves upon a Hill (called <hi>Ballyoskill)</hi> within two Muskets ſhot, and did not advance. Sir <hi>Patrick Wymes</hi> burnt all the Villages belonging to <hi>Dempſie,</hi> and returned back that night with the troop to the Fort of <hi>Marybur<g ref="char:EOLhyphen"/>rough.</hi>
+            </p>
+            <p>That night the Lievtenant Generall received intelli<g ref="char:EOLhyphen"/>gence by Letters from Coll. <hi>Crauford,</hi> That the Rebels with about forty Colours were incamped on both ſides of the River of <hi>Barrow,</hi> and were there making up the bridge of <hi>Magainy,</hi> which had been in the beginning of the Rebellion broken by order from the State.</p>
+            <p>Tueſday the twelfth, the whole Army lay ſtill at the Fort of <hi>Maryborrough,</hi> to give reſt to the troops, the bet<g ref="char:EOLhyphen"/>ter to prepare and enable them for ſervice, ſeeing there was advertizement of the Rebels being incampt, ſo as might give them fight in their return.</p>
+            <p>Upon Wedneſday the 13, the Army marcht through to <hi>Athy,</hi> and burnt a great part of the Territory of <hi>Clam<g ref="char:EOLhyphen"/>nalcero,</hi> a Countrey belonging to the Lord <hi>Dempſie</hi> in re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p>Thurſday the fourteenth, the Army continued at <hi>A<g ref="char:EOLhyphen"/>thy,</hi> the Rebels quartering on both ſides the River at the Bridge of <hi>Magainy,</hi> within foure miles of <hi>Athy,</hi> with a<g ref="char:EOLhyphen"/>bout 7000 foot, and 200 horſe amongſt whom were (as we underſtood by ſome priſoners taken in the fight) the Lord Viſcount <hi>Mount Garret,</hi> the Lord Viſcount <hi>Ikerin,</hi> the Lord Baron of <hi>Dunboyne,</hi> the Baron of <hi>Loghmoe,</hi> and moſt of the principall rebels of the Counties of <hi>Wickloe, Wexford, Caterlagh, Kildare, Kilkenny</hi> and <hi>Queen's County,</hi> who drew up a part of their forces to a place called <hi>Tanckardſtowne,</hi> neer <hi>Grange Mellon,</hi> a Caſtle defended by
+<pb n="7" facs="tcp:112850:5"/>
+Miſtris <hi>Burroughs,</hi> and ſome Warders, which had beene long beſig'd by the Rebels, where the Lievtenant Ge<g ref="char:EOLhyphen"/>nerals horſ-troop commanded by Sir <hi>Patrick Wymes,</hi> and Captain <hi>Armſtrong's</hi> troop were quartered. From which Caſtle in the morning by directions from the Lievte<g ref="char:EOLhyphen"/>nant Generall Cornet <hi>Butler,</hi> and Cornet <hi>Magragh,</hi> were ſent to diſcover the Rebels; but they obſerving that part of the troops were a forraging ſent over a troop of horſe, each horſman carrying behind him a Muſquetier, who croſt the River thinking to cut off both the Cor<g ref="char:EOLhyphen"/>nets, which Sir <hi>Patrick Wymes,</hi> and Captain <hi>Armſtrong,</hi> be<g ref="char:EOLhyphen"/>ing upon the top of the Caſtle obſerving, did in preven<g ref="char:EOLhyphen"/>tion thereof get together ſo many of the horſmen as were in the quarter, and charg'd the Rebels then in skir<g ref="char:EOLhyphen"/>miſh with two Cornets, and forced them back over the River, kill'd one of their horſmen, hurt divers of the reſt, kill'd all the foot, and ſome were drowned in ſwim<g ref="char:EOLhyphen"/>ming back again. In this ſervice Sir <hi>Patrick Wymes</hi> had his horſe kill'd under him, and two of the Lievtenant Generals troop were then ſhot.</p>
+            <p>The ſame ſame day in the afternoone the Lievte<g ref="char:EOLhyphen"/>nant Generall accompanied with Sir <hi>Charles Coot,</hi> Sir <hi>Thomas Lucas,</hi> Collonel <hi>Crauford,</hi> Collonel <hi>Monck,</hi> and other Commanders: and divers Voluntiers with 200 horſe went to view the ſtrength of the Rebels, and in what manner they lay. Upon his Lordſhips returne to <hi>Athy,</hi> he then immediatly called a Councell of Warre: and having there imparted his obſervation concerning the Rebels, it was debated in Councell, what reſoluti<g ref="char:EOLhyphen"/>on was fitteſt to be taken. And conſidering that our hor<g ref="char:EOLhyphen"/>ſes were exceedingly haraſed in their former long and troubleſome marches for reliefe of the ſeverall places
+<pb n="8" facs="tcp:112850:6"/>
+formerly mentioned; that many of the ſouldiers were ſicke; that our victuals were well neere ſpent; that our ſtore of munition was much exhauſted in furniſhing the ſeverall places we had relieved; that wee had not heard from <hi>Dublin,</hi> nor they from us ſince we marched thence, by reaſon that all the ways were ſhut up by the Rebels that therefore we knew not but there might be cauſe for haſtning thither, to prevent any inconvenience there that we were much <gap reason="illegible" resp="#UOM" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> with the multitude of our carriages increaſed neceſſarily for carrying the Muniti<g ref="char:EOLhyphen"/>on ſent for relief of the ſaid ſeverall Caſtles, and for car<g ref="char:EOLhyphen"/>rying of our own proviſion of bread, lest the want there of might diſtreſſe us abroad where wee were not ſure to be ſufficiently provided, and for carrying our ſick men, and many poore unſerviceable <hi>Engliſh,</hi> whom wee brought away from the Caſtles relieved, that the forces of the Rebels loy upon a great advantage, and might at their pleasure get from us into a Bog, or Wood, both which lay very neere them; that they might eaſily break down the bridge of <hi>Magainy,</hi> formerly mentioned, which they had newly made up, and lay betweene both parts of their forces: It was therefore reſolved in Councell that we would not goe to ſeek out an enemy, eſpecially they being ſo numerous, and having thoſe other advan<g ref="char:EOLhyphen"/>tages of us, but would rather bend our courſe towards <hi>Dublin,</hi> yet for as if they hindred our march wee would not diſhonour his Majeſties army ſo, as to fly from thoſe Rebels, but would endeavour (by the aſſiſtance of Al<g ref="char:EOLhyphen"/>mighty God) to force our paſſage in deſpight of them, with what hazard ſoever.</p>
+            <p>In put ſuit of that reſolution taken in the Councell of War, we murched from <hi>Athy,</hi> on Friday the fifteenth of this moneth by ſix of the clocke in the morning: Our
+<pb n="9" facs="tcp:112850:6"/>
+numbers of able fighting men (by reaſon of thoſe wee had diſpoſed in ſeverall needfull, and apt Garriſons, and by reaſon of our ſick men) not exceeding 2400 foot, and about 400 horſe who upon the firſt ſetting forth were put into this Order of marching. Firſt, Corner <hi>Pollard</hi> with 30 horſe, and 40 fire-locks as a Vant <hi>Currlers</hi> and for<g ref="char:EOLhyphen"/>lorn hope. In the next place the baggage belonging to the horſe, then ſix troops of horſe led by Sir <hi>Tho. Lucas</hi> Commiſſary Generall of the Horſe in two Diviſions; then followed the baggage of the foot <hi>Vivres,</hi> and the animunition waggons.</p>
+            <p>After it the Lievtenant Generall with a troop of Vo<g ref="char:EOLhyphen"/>lunteers commanded by Cap. <hi>Edmund Matthew</hi> wherein were the Lord <hi>Dillon</hi> (eldeſt ſon to the Earle of <hi>Roſco<g ref="char:EOLhyphen"/>mon)</hi> the Lord <hi>Braba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> (eldeſt ſonne to the Earle of <hi>Meath)</hi> Sir <hi>Robert Farrar,</hi> Colonell <hi>Iohn Barry,</hi> Serjeant Major <hi>John Ogle,</hi> and divers other Gentlemen of good quality. After him followed foure Diviſions of foot, Each conſiſting of about 300, then marched the Artille<g ref="char:EOLhyphen"/>ry, and the Amunition belonging to it. After them four other Diviſions of foot, of 300 each. Then three troops of horſe commanded by Sir <hi>Richard Greenvile;</hi> the Rear of the foot was commanded by Sir <hi>Charles Coot.</hi>
+            </p>
+            <p>When wee had marched about a mile in this order, we diſcovered the Rebels on the right hand of Us, with all their ſtrengh of horſe and foot, making all poſſible haſte to overtake Us; or to prepoſſeſſe a paſſage neere to <hi>Bal<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſonnan,</hi> ſome five miles from <hi>Athy,</hi> which paſſage wee could not avoid, having reſolved to quarter at <hi>Con<g ref="char:EOLhyphen"/>nell.</hi> Whereupon the Lievtenant Generall cauſed the Pioners to make ways into the incloſed grounds, that ſo the foot might march in the Flanck of the baggage, aſ<g ref="char:EOLhyphen"/>well for the ſecurity of it; as to avoid the cumber there<g ref="char:EOLhyphen"/>of,
+<pb n="10" facs="tcp:112850:7"/>
+in caſe the light arm'd Rebels ſhould fall ſuddenly upon us, and commanded out Cornet <hi>Magragh</hi> with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 horſe, and directions carefully to obſerve the Rebels march, and then he gave order to Sir <hi>Thomas Lucas,</hi> with all the horſ-troops that marched in the Van (except his Lordſhips own troop, and the Volunteers) and a party of Fire-locks to poſſeſſe the foreſaid paſſage, and to make it good till all the troopes ſhould come thither. Then his Lordſhip ſent out other Scouts to bring in continuall notice of the motions, and approach of the Rebels. By that time wee had marched about two miles further, the Scouts came in, and brought in intelligence, that the Rebels were on the otherſide of a Hill that had for a good while hindred our ſight of them, and that they made extraordinary haſte to overtake us, or to poſ<g ref="char:EOLhyphen"/>ſeſſe themſelves of the paſſage before us. Hereupon the Lievtenant Generall haſtned on the baggage, and gave the Conductors order to make no ſtand, till it were got<g ref="char:EOLhyphen"/>ten beyond that paſſage.</p>
+            <p>Preſently after this Order given, hee diſcovered di<g ref="char:EOLhyphen"/>vers of the Rebels Colours drawn up upon a Hill on the right hand; whereupon hee inſtantly made a ſtand with the firſt foure Diviſions of foot, drew them up in order to fight, and faced the Rebels within two Muskets ſhot of them, leaving room for the other troops of horſe and foot according to the ground, and the order he had de<g ref="char:EOLhyphen"/>ſigned to draw them up in, having formerly ſent for them upon the firſt notice of the Rebels being ſo neere us. In this order, and in expectation of the other troops wee ſtood awhile; The Rebels likewiſe in the meane time drawing up, and ordering their troops. At length Sir <hi>Charles Coot,</hi> Sir <hi>Thomas Lucas,</hi> and Sir <hi>Richard Green<g ref="char:EOLhyphen"/>vile</hi> came with the troops under their commands (ha<g ref="char:EOLhyphen"/>ving
+<pb n="11" facs="tcp:112850:7"/>
+by their diligence, and circumſpection prevented the Meſſengers whom the Lievtenant Generall had pro<g ref="char:EOLhyphen"/>vidently, and with good judgment ſent for them) and were by his Lordſhip immediatly put into order deſcri<g ref="char:EOLhyphen"/>bed in the incloſed Card.</p>
+            <p>In which order wee advanced towards the Rebels till by the interpoſition of a hedge and hollow way, ſome of the Troops were forced to goe about, and then drew up again in the ſame order, on the otherſide of the Hedge, within almoſt Musket ſhot of the Rebels: Then were ſent out parties of Fire-locks, and Muſ<g ref="char:EOLhyphen"/>quetiers to begin the fight. After they had given fire for a good ſpace upon the Rebels, and the Rebels upon them Sir <hi>Thomas Lucas</hi> with all the Troopes on the left wing, <hi>(viz.)</hi> his owne Troope Captaine <hi>Armeſtrong's</hi> and the Earle of <hi>Ormond's,</hi> (which laſt was commanded by Sir <hi>Patrick Wymes)</hi> and were led by Sir <hi>Thomas Lucas,</hi> the other diviſion followed wherein were Sir <hi>George Wentworths</hi> commanded by Captain <hi>Harman,</hi> Sir <hi>Char<g ref="char:EOLhyphen"/>les Coot's,</hi> by Lievtenant <hi>Devalier,</hi> and the Lord Lievtenant's by Captaine <hi>Yarner,</hi> who commanded that Diviſion, marched up in order towards two bo<g ref="char:EOLhyphen"/>dies of the Rebels conſiſting of three thouſand, with a Troope of Horſe on each Wing of the Rebels Divi<g ref="char:EOLhyphen"/>ſions, they in the meane time giving fire in his face, and the other two bodies that were on their right Wing conſiſting of foure thouſand doing the like in his left Flancke, when hee was gotten within leſſe then Car<g ref="char:EOLhyphen"/>bin ſhot of them, divers of our Horſe and Men, that were within being hurt he haſtened, and charged them upon a good round Trot, and in the end routed them, and forced them to betake themſelves to flight towards a Bog, they leaving behind them divers of their Co<g ref="char:EOLhyphen"/>lours
+<pb n="12" facs="tcp:112850:8"/>
+and Armes; Sir <hi>Richard Greenvile</hi> then with three Troopes (viz.) The Lord <hi>Liſle</hi>'s, commanded by Cap<g ref="char:EOLhyphen"/>taine <hi>Tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſwell,</hi> his owne Troope, and Captaine <hi>Schout's</hi> charged the left wing of the Rebels. Horſe who were routed alſo, and betooke themſelves to flight as the o<g ref="char:EOLhyphen"/>thers had done; During all which time our Foote gal<g ref="char:EOLhyphen"/>lantly advancing, gave fire inceſſantly upon the Re<g ref="char:EOLhyphen"/>bels, our Horſe then followed the execution bravely.</p>
+            <p>And then alſo our foot ſtill continued to give fire upon thoſe routed men, which they did exceedingly well, un<g ref="char:EOLhyphen"/>till by the mingling of our men with theirs, in the pur<g ref="char:EOLhyphen"/>ſuit, it became neceſſary (for the preſervation of our own men ſo mingled with the Rebels) to forbeare. And there<g ref="char:EOLhyphen"/>fore the Lieutenant Generall commanded them to for<g ref="char:EOLhyphen"/>beare, which then (and not before) they did according<g ref="char:EOLhyphen"/>ly. In all that time the body of 4000. of the Rebels, which was the right wing of their Army ſtood faſt and moved not. In which wing the Lord <hi>Mount Garret,</hi> and Collonel <hi>Hugh Birne,</hi> and divers others of the principall Rebels were (as was told us by ſome Priſoners taken in the fight) Againſt that body; the Lieutenant Generall, with his Troope of Voluntiers, and Sir <hi>John Shirlock,</hi> Lieutenant Collonel of the Lord <hi>Lamberts</hi> Regiment, with a diviſion of 300. foot advanced, and ſent out ſixtie Musquetiers, who gave fire upon the Rebels, and the Rebels on them, and on the Lieutenant Generall with the Voluntiers.</p>
+            <p>But in concluſion, that body which of all the Rebels had the confidence to ſtand longeſt, having ſeene all the reſidue of their Army routed, and the execution ſo ſharp<g ref="char:EOLhyphen"/>ly followed, they began to breake, but being by their Officers rallied againe, they gave fire againe on the Lieu<g ref="char:EOLhyphen"/>tenant Generall, and thoſe 300. foot of ours, who retur<g ref="char:EOLhyphen"/>ned
+<pb n="13" facs="tcp:112850:8"/>
+backe to the Rebels ſuch volleys of ſhot, as gave them little comfort to ſtand longer; but they choſe rather to betake them<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves to flight, yet diſguiſing it by a ſeeming Retreate, vntill they got to the top of a Hill neere them, and then they began to run with all ſpeed poſſible to ſave their lives, to a bogge not farre from thence, whither all the reſt of the Rebels formerly Routed had betaken them<g ref="char:EOLhyphen"/>ſelves, and where their Horſemen had run their Horſes into the Bogges, an there for looke them, and betooke them to their heeles, and thither they were purſued moſt fiercely by our horſe and foot, who were ſo forward and fierce in following the execution, as the Lieutenant Ge<g ref="char:EOLhyphen"/>nerall had much difficulty to keepe them from following even into the Bogge, and no leſſe difficulty to get them to retreate, ſo earneſtly did they all deſire to have the kil<g ref="char:EOLhyphen"/>ling of more of the Rebels; But in the end they were perſwaded to retreate. And then the Lieutenant Gene<g ref="char:EOLhyphen"/>rall aſſembling the Army, commanded them to prayer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, And his Lordſhip (as did alſo all the reſt) gave God publicke thankes for that Victory, which God in mercy had given us againſt thoſe Rebels, whoſe numbers did as farre exceed ours, as our men did theirs in judgement, vallour, and reſolution. In that Battell were ſlaine of the Rebels above 700. and amongſt them many Collo<g ref="char:EOLhyphen"/>nels and Captaines, and Men of qualitie, and about 20. of our men were ſlaine, and about 40. hurt, ſome of whom have died ſince.</p>
+            <p>Nor may it be omitted to doe the Lieutenant Gene<g ref="char:EOLhyphen"/>rall, that right which is due to him in this important ſervice that he did in his owne perſon, order the Battell and manner of fight in all the parts of it, and did it with very great judgement, layd hold quickly, and ſeaſonably
+<pb n="14" facs="tcp:112850:9"/>
+on all opportunities of advantage that could be gained, and ſpared not reſolutely to expoſe his own perſon to ha<g ref="char:EOLhyphen"/>zard, equally with any other Commander.</p>
+            <p>Sir <hi>Thomas Lucas</hi> manifeſted great courage, and very judicious Conduct, and the Officers led by him gave good Teſtimonies of alacrity, and undaunted reſolution, As alſo did Sir <hi>Charles Coote,</hi> Collonel <hi>Crauford,</hi> Collonel <hi>Monck,</hi> Lievtenant Collonel <hi>Lofius;</hi> Serjeant Major <hi>Warren,</hi> Serjeant Major <hi>Pageat,</hi> Serjeant Major <hi>Willough<g ref="char:EOLhyphen"/>by,</hi> that led on the Foot. And likewiſe Sir <hi>Richard Green<g ref="char:EOLhyphen"/>vile,</hi> that Commanded the right wing of the Horſe, and the Officers under his command, and indeed all the Offi<g ref="char:EOLhyphen"/>cers, and even the common Souldiers acquitted them<g ref="char:EOLhyphen"/>ſelves exceedingly well and commendably.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Lunae 20 Maij 1642.</date>
+               </dateline>
+            </opener>
+            <p>It is Ordered by the Houſe of Commons, that this be forthwith printed.</p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
